@@ -10,6 +10,8 @@ body{
 
 #contenedor{
     background: #fff;
-    height: 900px;
+    height: 1050px;
     width: 830px;
+    margin-right: auto;
+    margin-left: auto;
 }
