@@ -9,9 +9,61 @@ body{
 }
 
 #contenedor{
-    background: #fff;
-    height: 1050px;
-    width: 830px;
+    height: auto;
+    width: 1013px;
     margin-right: auto;
     margin-left: auto;
+}
+
+header, #banner, #noticias, #tienda, #marcas{
+    background: #fff;
+    width: auto;
+    height: 100px;
+}
+
+#banner{
+    background: #666;
+    height: 300px;
+}
+
+#noticias{
+    background: #fff;
+    height: 230px;
+    padding-top: 8px;
+
+}
+#noticias #noticia1{
+    background: #999;
+    width: 335px;
+    height: 220px;
+    display: inline-block;
+}
+
+#noticias #noticia2{
+    background: #124eb0;
+    width: 335px;
+    height: 220px;
+    display: inline-block;
+}
+
+#noticias #noticia3{
+    background: #f98e13;
+    width: 335px;
+    height: 220px;
+    display: inline-block;
+}
+#tienda{
+    background: #666;
+    height: 200px;
+}
+
+#marcas{
+    background: #fff;
+    height: 130px;
+}
+
+footer{
+    background: #f21;
+    width: auto;
+    height: 130px;
 }
